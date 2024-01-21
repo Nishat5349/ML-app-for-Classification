@@ -1,6 +1,8 @@
 # ML-app-for-Classification
 The project involves creating a Gradio app for butterfly classification. It utilizes a pre-trained butterfly classification model (model.h5) and class labels stored in a CSV file (classLabel1.csv). Users can upload images of butterflies to the app, and it provides real-time predictions for the butterfly's class label.Users can upload images of butterflies to the app, and it provides real-time predictions for the butterfly's class label. The code integrates Gradio, TensorFlow, and pandas to create an interactive and user-friendly interface for butterfly classification.
 
+## You can check it here "https://github.com/Nishat5349/butterflyClassification" for clear concept on my trained mode "model.h5"
+
 The source code combines the Gradio library, TensorFlow, and pandas to create a user-friendly interface for butterfly classification. The provided Gradio app enables users to interact with the pre-trained model and obtain predictions with ease.
 
 ## Here's a step-by-step description of how the code sets up a Gradio app for butterfly classification:
