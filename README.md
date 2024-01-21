@@ -91,5 +91,10 @@ iface.launch()
 7. **Running the Code:**
    - After running the code, users can click on the provided link to open the Gradio app in a new tab.
    - The app allows users to upload an image of a butterfly, and it provides real-time predictions for the butterfly's class label.
+  
+### 
+This the interface:
+
+![image](https://github.com/Nishat5349/ML-app-for-Classification/assets/72455268/fbf850ae-63f8-493f-abbf-c791ed15c5b2)
 
 This description outlines how the code combines the Gradio library, TensorFlow, and pandas to create a user-friendly interface for butterfly classification. The provided Gradio app enables users to interact with the pre-trained model and obtain predictions with ease.
